@@ -1,1 +1,1 @@
-# inteligencia
+# inteligencia artificial adaptativa
